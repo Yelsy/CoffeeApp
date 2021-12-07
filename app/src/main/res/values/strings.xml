@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Coffee Yel</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="button_next">Login</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="start">Start Now</string>
+    <string name="coffee_tittle">Late</string>
+    <string name="coffee_description">cafe espumoso</string>
+    <string name="coffee">Good Morning Is Brought to you By: </string>
+    <string name="error_password">Password must contain at least 6 characters</string>
+</resources>
