@@ -5,37 +5,50 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".CoffeeGridFragment"
+    android:background="@drawable/awake"
     >
-    <com.google.android.material.appbar.AppBarLayout
+    >
+
+    <FrameLayout
+        android:id="@+id/frame_container"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:elevation="0dp"
-        >
-        <androidx.appcompat.widget.Toolbar
-            android:id="@+id/app_bar"
-            style="@style/Widget.CoffeeApp.Toolbar"
-            android:layout_width="match_parent"
-            android:layout_height="56dp"
-            app:navigationIcon="@drawable/menu_bar"
-            app:title="@string/app_name"
-            />
-    </com.google.android.material.appbar.AppBarLayout>
+        android:layout_alignParentTop="true"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+
+        />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:text="SELECT COFFEE"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        />
+
+
+
 
     <androidx.core.widget.NestedScrollView
+        android:id="@+id/coffee_grid"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginTop="56dp"
-        android:background="@color/white"
+        android:background="@drawable/fondo"
         android:elevation="8dp"
         android:paddingStart="16dp"
         android:paddingEnd="16dp"
         app:layout_behavior="@string/appbar_scrolling_view_behavior"
+
         >
+
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recycler_view"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
     </androidx.core.widget.NestedScrollView>
-
 
 </FrameLayout>

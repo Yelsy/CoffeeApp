@@ -9,4 +9,9 @@
     <string name="coffee_description">cafe espumoso</string>
     <string name="coffee">Good Morning Is Brought to you By: </string>
     <string name="error_password">Password must contain at least 6 characters</string>
+
+    <!-- backdrop menu -->
+    <string name="backdrop_menu_label">Menu</string>
+    <string name="backdrop_menu_special_label">Special</string>
+    <string name="backdrop_menu_account_label">Account</string>
 </resources>

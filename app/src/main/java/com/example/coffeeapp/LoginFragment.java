@@ -32,6 +32,8 @@ public class LoginFragment extends Fragment {
                 }else{
                     passwordTextInput.setError(null);
                     ((NavigationHost)getActivity()).navigateTo(new CoffeeGridFragment(),false);
+
+
                 }
 
             }

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item
+        android:id="@+id/special_menu"
+        android:icon="@drawable/ic_special"
+        android:title="Special"
+        />
+
+    <item
+
+        android:id="@+id/account_menu"
+        android:icon="@drawable/ic_account"
+        android:title="account"/>
+
+    <item
+
+
+        android:id="@+id/camera_menu"
+        android:icon="@drawable/ic_camera"
+        android:title="Camera"/>
+
+
+
+</menu>

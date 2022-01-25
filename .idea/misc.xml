@@ -3,12 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Yelsy/AndroidStudioProjects/CoffeeApp/app/src/main/res/drawable/coffee_grid_background.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/Yelsy/AndroidStudioProjects/CoffeeApp/app/src/main/res/drawable/ic_account.xml" value="0.2046875" />
+        <entry key="..\:/Users/Yelsy/AndroidStudioProjects/CoffeeApp/app/src/main/res/drawable/ic_camera.xml" value="0.2046875" />
         <entry key="..\:/Users/Yelsy/AndroidStudioProjects/CoffeeApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/Yelsy/AndroidStudioProjects/CoffeeApp/app/src/main/res/drawable/ic_special.xml" value="0.11510416666666666" />
+        <entry key="..\:/Users/Yelsy/AndroidStudioProjects/CoffeeApp/app/src/main/res/drawable/ic_special.xml.xml" value="0.11510416666666666" />
+        <entry key="..\:/Users/Yelsy/AndroidStudioProjects/CoffeeApp/app/src/main/res/drawable/styles.xml" value="0.178125" />
+        <entry key="..\:/Users/Yelsy/AndroidStudioProjects/CoffeeApp/app/src/main/res/layout/activityMain.xml" value="0.25" />
         <entry key="..\:/Users/Yelsy/AndroidStudioProjects/CoffeeApp/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Yelsy/AndroidStudioProjects/CoffeeApp/app/src/main/res/layout/backdrop.xml" value="0.1625" />
+        <entry key="..\:/Users/Yelsy/AndroidStudioProjects/CoffeeApp/app/src/main/res/layout/camera_fragment.xml" value="0.18" />
+        <entry key="..\:/Users/Yelsy/AndroidStudioProjects/CoffeeApp/app/src/main/res/layout/coffee.menu.xml" value="0.16510416666666666" />
         <entry key="..\:/Users/Yelsy/AndroidStudioProjects/CoffeeApp/app/src/main/res/layout/coffee_card.xml" value="0.22" />
-        <entry key="..\:/Users/Yelsy/AndroidStudioProjects/CoffeeApp/app/src/main/res/layout/coffee_grid_fragment.xml" value="0.22" />
+        <entry key="..\:/Users/Yelsy/AndroidStudioProjects/CoffeeApp/app/src/main/res/layout/coffee_detail.xml" value="0.18" />
+        <entry key="..\:/Users/Yelsy/AndroidStudioProjects/CoffeeApp/app/src/main/res/layout/coffee_grid_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Yelsy/AndroidStudioProjects/CoffeeApp/app/src/main/res/layout/coffee_view.xml" value="0.15520833333333334" />
         <entry key="..\:/Users/Yelsy/AndroidStudioProjects/CoffeeApp/app/src/main/res/layout/inicio_coffee.xml" value="0.22" />
         <entry key="..\:/Users/Yelsy/AndroidStudioProjects/CoffeeApp/app/src/main/res/layout/login_fragment.xml" value="0.22" />
+        <entry key="..\:/Users/Yelsy/AndroidStudioProjects/CoffeeApp/app/src/main/res/menu/coffee_menu.xml" value="0.16510416666666666" />
         <entry key="..\:/Users/Yelsy/AndroidStudioProjects/CoffeeApp/app/src/main/res/menu/toolbar_menu.xml" value="0.33" />
       </map>
     </option>

@@ -8,4 +8,6 @@ public interface NavigationHost {
      * puedo hacer que este stack sea reversible
      */
     void navigateTo(Fragment fragment, boolean addToBackstack);
+
+    void hideShowFragment(Fragment oldFragment, Fragment newFragment, String tag);
 }
